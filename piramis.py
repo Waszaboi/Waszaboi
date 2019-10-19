@@ -22,7 +22,7 @@ for x in moves:
     else:
         pos[1]+=1
 
-print(pos)
+# print(pos)
 
 rovid=[]
 xmin=1
