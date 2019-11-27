@@ -109,7 +109,6 @@ while fut:
     if input("Bezárod a programot?(y/n): ")=="y":
         fut=False
 
-        #for i in range(len(predictions)):
-        #    print(predictions[i], x_test[i],y_test[i])
+       
 
-    #TODO: megcsinálni univerzális inputra, loopoltatni 3-szorosan
+   
